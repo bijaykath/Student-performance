@@ -187,16 +187,16 @@ Support Vector Machine (SVM)      95.92%                84.00%              88.7
 Logistic Regression               81.69%                80.00%              84.51%
 After testing these models, the Random Forest Classifier performed best for this dataset.
 
-7. Power BI Dashboard PlanIn your LinkedIn project, mention that you developed a dashboard with these specific components:
+7. Power BI Dashboard Plan
 Key Performance Indicators (KPIs):
-Pass Rate: Current percentage of students passing ($50\%$ in this dataset).
-Avg. Attendance: Overall attendance health ($78.1\%$).Avg. 
-Study Hours: Benchmark for student effort ($26.1$ hrs/week).
+                                Pass Rate: Current percentage of students passing ($50\%$ in this dataset).
+                                Avg. Attendance: Overall attendance health ($78.1\%$).Avg. 
+                                Study Hours: Benchmark for student effort ($26.1$ hrs/week).
 Visuals:
-Correlation Matrix Heatmap: To show how Past_Exam_Scores and Attendance drive the Final_Exam_Score.
-Slicer by Parental Education: To see if education levels impact attendance or study habits.
-Scatter Plot: Attendance_Rate vs. Final_Exam_Score with a trend line.
-Gender Performance Breakdown: Bar chart comparing pass/fail rates between Male and Female students.
+        Correlation Matrix Heatmap: To show how Past_Exam_Scores and Attendance drive the Final_Exam_Score.
+        Slicer by Parental Education: To see if education levels impact attendance or study habits.
+        Scatter Plot: Attendance_Rate vs. Final_Exam_Score with a trend line.
+        Gender Performance Breakdown: Bar chart comparing pass/fail rates between Male and Female students.
 
 
 
