@@ -121,10 +121,10 @@ For large datasets we could use SQLAlchemy with to_sql() for bulk loading.
 
 6. Machine Learning Models to Predict Pass/Fail
 For classification problems like predicting whether a student will pass or fail, we can try several algorithms. 
-The choice of model depends on the desired outcome and the structure of your data; 
+The choice of model depends on the desired outcome and the structure of our data; 
 for example, decision trees classify observations by traversing a flow chart of conditions, 
 while random forest builds many decision trees from random subsets of the data and combines their predictions to improve accuracy.
-Below is sample code using scikit‑learn to compare four models: Logistic Regression,Random Forest, and Support Vector Machine (SVM). 
+Below is sample code using scikit‑learn to compare three models: Logistic Regression,Random Forest, and Support Vector Machine (SVM). 
 It encodes categorical variables using OneHotEncoder and evaluates each model on a test set:
 
 import pandas as pd
